@@ -1,4 +1,4 @@
-# blockchain-carbon-accounting
+# blockchain-CO2-accounting
 
 [![CI](https://github.com/hyperledger-labs/blockchain-carbon-accounting/actions/workflows/ci.yml/badge.svg)](https://github.com/hyperledger-labs/blockchain-carbon-accounting/actions/workflows/ci.yml)
 [![Test Report](https://github.com/hyperledger-labs/blockchain-carbon-accounting/actions/workflows/test-report.yml/badge.svg)](https://github.com/hyperledger-labs/blockchain-carbon-accounting/actions/workflows/test-report.yml)
